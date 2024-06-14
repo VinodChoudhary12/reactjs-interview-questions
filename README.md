@@ -389,9 +389,15 @@ Hide/Show table of contents
     
     React was created by [Jordan Walke](https://github.com/jordwalke), a software engineer working for Facebook. React was first deployed on Facebook's News Feed in 2011 and on Instagram in 2012.
 
+   ReactJS is an open-source front-end JavaScript library for building user interfaces. 
+It was created by Jordan Walke, who was a software engineer at Facebook. It was initially developed and maintained by Facebook and was later used in its products like WhatsApp & Instagram. Facebook developed ReactJS in 2011 in its newsfeed section, but it was released to the public in the month of May 2013.
+
+·  It is widely used as a base in building single-page websites and mobile applications.
+·  It is very easy to use, and it allows users to create reusable UI components. (Components like search field, pagination, slider, tags, icons, progress bar, notifications, message boxes, accordion etc)
+
     **[⬆ Back to Top](#table-of-contents)**
 
-2. ### What is the history behind React evolution?
+3. ### What is the history behind React evolution?
     The history of ReactJS started in 2010 with the creation of **XHP**. XHP is a PHP extension which improved the syntax of the language such that XML document fragments become valid PHP expressions and the primary purpose was used to create custom and reusable HTML elements. 
     
     The main principle of this extension was to make front-end code easier to understand and to help avoid cross-site scripting attacks. The project was successful to prevent the malicious content submitted by the scrubbing user.
